@@ -1,0 +1,11 @@
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+E:\Jakub\Documents\Programowanie\C#\ASP.NET Core\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
